@@ -24,6 +24,12 @@ allQuestionsAndAnswers = [
     ["sin(2x)", "2cos(2x)"],
     ["ln(x)", "1/x"],
     ["e^x", "e^x"],
+    ["sin^2(x)", "sin(2x)"],
+    ["cos^2(x)", "-sin(2x)"],
+    ["x^2", "2x"],
+    ["x^6 + 23x^4 + 17x^2 + 1", "6x^5 + 92x^3 + 34x"],
+    ["(1/4)x^4", "x^3"],
+    ["ln(2x-cos2x)", "(2+2sin2x)/(2x-cos2x)"]
 ]
 
 
