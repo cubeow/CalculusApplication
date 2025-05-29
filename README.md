@@ -1,5 +1,5 @@
 # CalculusApplication
-Generates a random derivative and integral questions (44 possible combinations). Generates as many questions as the user desires for repetition and practice. Also contains an answer key
+Generates a random derivative and integral questions (44 possible combinations). Generates as many questions as the user desires for repetition and practice. Also contains an answer key.
 
 Steps for usage
 1. Copy the code from main.py
